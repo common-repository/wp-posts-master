@@ -1,0 +1,764 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Posts Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-20 11:57+0530\n"
+"PO-Revision-Date: 2020-02-20 11:57+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: Flipper Code <hello@flippercode.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/css/jquery-ui/jquery-ui.min.js:10
+msgid "'"
+msgstr ""
+
+#: classes/class.frontend.php:124
+msgid "Something went wrong."
+msgstr ""
+
+#: classes/class.frontend.php:135
+msgid "New Template? Choose a design, settings and tap on save template."
+msgstr ""
+
+#: classes/class.frontend.php:157
+msgid "No Posts found."
+msgstr ""
+
+#: classes/class.frontend.php:419
+msgid "Load More"
+msgstr ""
+
+#: classes/class.posts.php:274
+msgid "Page"
+msgstr ""
+
+#: classes/wpp-form.php:30
+msgid "WP Post Master"
+msgstr ""
+
+#: classes/wpp-form.php:31
+msgid "wp-posts-master"
+msgstr ""
+
+#: classes/wpp-form.php:32
+msgid ""
+"Display posts on your wordpress site in matter of seconds with ease. Simple "
+"to complex rule buildiung"
+msgstr ""
+
+#: core/class.plugin-lite.php:671
+msgid "Hide"
+msgstr ""
+
+#: core/class.plugin-overview.php:461
+msgid "Download WP Google Map Pro 4.0.0"
+msgstr ""
+
+#: core/class.tabular.php:227 core/class.tabular.php:413
+msgid "Selected "
+msgstr ""
+
+#: core/class.tabular.php:244
+msgid "Manage "
+msgstr ""
+
+#: core/class.tabular.php:588
+msgid "Filter"
+msgstr ""
+
+#: core/class.tabular.php:648
+msgid "Select Page"
+msgstr ""
+
+#: modules/layout/model.layout.php:39
+msgid "New Template"
+msgstr ""
+
+#: modules/layout/model.layout.php:40
+msgid "Manage Templates"
+msgstr ""
+
+#: modules/layout/model.layout.php:117 modules/rules/model.rules.php:131
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: modules/layout/model.layout.php:119
+msgid "Template updated successfully"
+msgstr ""
+
+#: modules/layout/model.layout.php:121
+msgid "Template added successfully."
+msgstr ""
+
+#: modules/layout/model.layout.php:150
+msgid "Copy"
+msgstr ""
+
+#: modules/layout/views/form.php:51
+msgid "Template Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:51
+msgid "Manage Layouts"
+msgstr ""
+
+#: modules/layout/views/form.php:55
+msgid "Designs"
+msgstr ""
+
+#: modules/layout/views/form.php:56
+msgid "Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:57
+msgid "Source Code"
+msgstr ""
+
+#: modules/layout/views/form.php:58
+msgid "Preview"
+msgstr ""
+
+#: modules/layout/views/form.php:60 modules/layout/views/form.php:452
+msgid "Save Template"
+msgstr ""
+
+#: modules/layout/views/form.php:82
+msgid ""
+"You can alter existing design or create your own design using following "
+"placeholders."
+msgstr ""
+
+#: modules/layout/views/form.php:96 modules/layout/views/form.php:99
+msgid "Layout Title"
+msgstr ""
+
+#: modules/layout/views/form.php:103
+msgid "Apply Rules"
+msgstr ""
+
+#: modules/layout/views/form.php:110
+msgid "Title Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:116
+msgid "Hide Title"
+msgstr ""
+
+#: modules/layout/views/form.php:122 modules/layout/views/form.php:190
+msgid "Link to Post"
+msgstr ""
+
+#: modules/layout/views/form.php:129
+msgid "Title Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:131
+msgid "Modify the title container."
+msgstr ""
+
+#: modules/layout/views/form.php:136
+msgid "Content Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:142
+msgid "Hide Content"
+msgstr ""
+
+#: modules/layout/views/form.php:149
+msgid "Content Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:151
+msgid "Modify the content container."
+msgstr ""
+
+#: modules/layout/views/form.php:156
+msgid "Content Show"
+msgstr ""
+
+#: modules/layout/views/form.php:157
+msgid "Excerpt"
+msgstr ""
+
+#: modules/layout/views/form.php:157 modules/layout/views/form.php:216
+msgid "Full"
+msgstr ""
+
+#: modules/layout/views/form.php:163
+msgid "Content Limit"
+msgstr ""
+
+#: modules/layout/views/form.php:165
+msgid "Modify the content limit."
+msgstr ""
+
+#: modules/layout/views/form.php:170
+msgid "Render Shortcode"
+msgstr ""
+
+#: modules/layout/views/form.php:177
+msgid "Featured Image Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:183
+msgid "Hide Thumbnail"
+msgstr ""
+
+#: modules/layout/views/form.php:197
+msgid "Thumbnail Width"
+msgstr ""
+
+#: modules/layout/views/form.php:199
+msgid "Modify the thumbnail width."
+msgstr ""
+
+#: modules/layout/views/form.php:204
+msgid "Thumbnail Height"
+msgstr ""
+
+#: modules/layout/views/form.php:206
+msgid "Modify the thumbnail height."
+msgstr ""
+
+#: modules/layout/views/form.php:211
+msgid "Thumbnail Size"
+msgstr ""
+
+#: modules/layout/views/form.php:213
+msgid "Thumbnail"
+msgstr ""
+
+#: modules/layout/views/form.php:214
+msgid "Medium"
+msgstr ""
+
+#: modules/layout/views/form.php:215
+msgid "Large"
+msgstr ""
+
+#: modules/layout/views/form.php:223
+msgid "Thumbnail Position"
+msgstr ""
+
+#: modules/layout/views/form.php:225
+msgid "Top"
+msgstr ""
+
+#: modules/layout/views/form.php:226
+msgid "Left"
+msgstr ""
+
+#: modules/layout/views/form.php:227
+msgid "Right"
+msgstr ""
+
+#: modules/layout/views/form.php:234
+msgid "Read More Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:240
+msgid "Hide Read More"
+msgstr ""
+
+#: modules/layout/views/form.php:247
+msgid "Read More Text"
+msgstr ""
+
+#: modules/layout/views/form.php:249
+msgid "Modify the read more container."
+msgstr ""
+
+#: modules/layout/views/form.php:250
+msgid "Read More"
+msgstr ""
+
+#: modules/layout/views/form.php:255
+msgid "Date Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:261
+msgid "Hide Date"
+msgstr ""
+
+#: modules/layout/views/form.php:268
+msgid "Date Format :"
+msgstr ""
+
+#: modules/layout/views/form.php:270
+msgid "Modify the date format."
+msgstr ""
+
+#: modules/layout/views/form.php:275
+msgid "Date Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:277
+msgid "Modify the date container."
+msgstr ""
+
+#: modules/layout/views/form.php:283
+msgid "Author Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:289
+msgid "Hide Author"
+msgstr ""
+
+#: modules/layout/views/form.php:296
+msgid "Author Link"
+msgstr ""
+
+#: modules/layout/views/form.php:303
+msgid "Author Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:305
+msgid "Modify the author container."
+msgstr ""
+
+#: modules/layout/views/form.php:310
+msgid "Display"
+msgstr ""
+
+#: modules/layout/views/form.php:313
+msgid "Nice Name"
+msgstr ""
+
+#: modules/layout/views/form.php:314
+msgid "Display Name"
+msgstr ""
+
+#: modules/layout/views/form.php:315
+msgid "First Name"
+msgstr ""
+
+#: modules/layout/views/form.php:316
+msgid "Last Name"
+msgstr ""
+
+#: modules/layout/views/form.php:317
+msgid "User Name"
+msgstr ""
+
+#: modules/layout/views/form.php:325
+msgid "Comments Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:331
+msgid "Hide Comments"
+msgstr ""
+
+#: modules/layout/views/form.php:338
+msgid "Comments Link"
+msgstr ""
+
+#: modules/layout/views/form.php:346
+msgid "Comments Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:348
+msgid "Comments"
+msgstr ""
+
+#: modules/layout/views/form.php:352
+msgid "Categories Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:358
+msgid "Hide Category"
+msgstr ""
+
+#: modules/layout/views/form.php:365
+msgid "Category Link"
+msgstr ""
+
+#: modules/layout/views/form.php:373
+msgid "Category Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:375
+msgid "Modify the category container."
+msgstr ""
+
+#: modules/layout/views/form.php:380
+msgid "Tags Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:387
+msgid "Hide Tags"
+msgstr ""
+
+#: modules/layout/views/form.php:394
+msgid "Tags Link"
+msgstr ""
+
+#: modules/layout/views/form.php:403
+msgid "Tags Wrapper"
+msgstr ""
+
+#: modules/layout/views/form.php:405
+msgid "Modify the tags container."
+msgstr ""
+
+#: modules/layout/views/form.php:410
+msgid "Pagination Settings"
+msgstr ""
+
+#: modules/layout/views/form.php:416
+msgid "Apply Pagination"
+msgstr ""
+
+#: modules/layout/views/form.php:425
+msgid "Pagination Style"
+msgstr ""
+
+#: modules/layout/views/form.php:426
+msgid "Pagination"
+msgstr ""
+
+#: modules/layout/views/form.php:435
+msgid "Posts Per Page"
+msgstr ""
+
+#: modules/layout/views/form.php:437
+msgid "Set posts to display per page. Default is 10."
+msgstr ""
+
+#: modules/layout/views/manage.php:73
+msgid "Template Title"
+msgstr ""
+
+#: modules/layout/views/manage.php:73
+msgid "Selected Rules"
+msgstr ""
+
+#: modules/layout/views/manage.php:73
+msgid "Shortcode"
+msgstr ""
+
+#: modules/overview/views/how.php:19
+msgid "How it Works?"
+msgstr ""
+
+#: modules/overview/views/how.php:22
+msgid ""
+"You can display posts listing based on various useful filters in just two "
+"steps. First you need to create your rules to get posts and then display "
+"them using readymade templates or create your own template with help of "
+"placeholders."
+msgstr ""
+
+#: modules/overview/views/how.php:26
+msgid "How to create your First Post Listing?"
+msgstr ""
+
+#: modules/overview/views/how.php:31
+#, php-format
+msgid ""
+"Use our easy to use <a target=\"_blank\" href=\"%s\">rules builder</a> to "
+"filter the posts which you want to display. All these rules will be "
+"available to choose when you create your template."
+msgstr ""
+
+#: modules/overview/views/how.php:36
+#, php-format
+msgid ""
+"Now <a target=\"_blank\" href=\"%s\">click here</a> to create a template. "
+"You can create as many templates you want to add. Using shortcode, you can "
+"add posts listing on posts/pages or sidebar."
+msgstr ""
+
+#: modules/overview/views/how.php:41
+msgid ""
+"When done with administrative tasks, you can display posts listing on posts/"
+"pages Using shortcode. Each template will have own shortcode so go to Manage "
+"Templates and copy your shortcode and paste on any page."
+msgstr ""
+
+#: modules/overview/views/how.php:47
+msgid "Content Place holders"
+msgstr ""
+
+#: modules/overview/views/how.php:51
+msgid ""
+"Use following placeholder to create templates and display various data "
+"without any programming."
+msgstr ""
+
+#: modules/overview/views/how.php:53
+msgid "Post Title"
+msgstr ""
+
+#: modules/overview/views/how.php:54
+msgid "Post Links"
+msgstr ""
+
+#: modules/overview/views/how.php:55
+msgid "Post Content"
+msgstr ""
+
+#: modules/overview/views/how.php:56
+msgid "Featured Image"
+msgstr ""
+
+#: modules/overview/views/how.php:57
+msgid "Read More Link"
+msgstr ""
+
+#: modules/overview/views/how.php:58 modules/rules/views/form.php:64
+msgid "Post Date"
+msgstr ""
+
+#: modules/overview/views/how.php:59
+msgid "Author Name"
+msgstr ""
+
+#: modules/overview/views/how.php:60
+msgid "Post Comments"
+msgstr ""
+
+#: modules/overview/views/how.php:61
+msgid "Post Categories"
+msgstr ""
+
+#: modules/overview/views/how.php:62
+msgid "Post Tags"
+msgstr ""
+
+#: modules/overview/views/how.php:65
+msgid "Additional Features Present In Pro Version :"
+msgstr ""
+
+#: modules/rules/model.rules.php:39
+msgid "How to Use"
+msgstr ""
+
+#: modules/rules/model.rules.php:40
+msgid "Add Rule"
+msgstr ""
+
+#: modules/rules/model.rules.php:41
+msgid "Manage Rules"
+msgstr ""
+
+#: modules/rules/model.rules.php:133
+msgid "Rule updated successfully"
+msgstr ""
+
+#: modules/rules/model.rules.php:135
+msgid "Rule added successfully."
+msgstr ""
+
+#: modules/rules/views/form.php:30
+msgid "Add / Edit Post Listing Rule"
+msgstr ""
+
+#: modules/rules/views/form.php:33
+msgid "Rule Title"
+msgstr ""
+
+#: modules/rules/views/form.php:35
+msgid "Enter post listing rule title."
+msgstr ""
+
+#: modules/rules/views/form.php:37
+msgid "Enter Post Listing Rule Title"
+msgstr ""
+
+#: modules/rules/views/form.php:41
+msgid "# of Posts"
+msgstr ""
+
+#: modules/rules/views/form.php:43
+msgid ""
+"Enter number of posts you want to display. Leave it blank for displaying all "
+"posts."
+msgstr ""
+
+#: modules/rules/views/form.php:48
+msgid "Enter Number Of Posts To Display"
+msgstr ""
+
+#: modules/rules/views/form.php:52
+msgid "Posts Offset"
+msgstr ""
+
+#: modules/rules/views/form.php:54
+msgid ""
+"Enter how many posts you want to skip from starting. Leave \"0\" if you want "
+"to display from starting."
+msgstr ""
+
+#: modules/rules/views/form.php:59
+msgid "Provide Starting Offset For Post Listing"
+msgstr ""
+
+#: modules/rules/views/form.php:63
+msgid "Title"
+msgstr ""
+
+#: modules/rules/views/form.php:65
+msgid "Modified Date"
+msgstr ""
+
+#: modules/rules/views/form.php:66
+msgid "Comments Count"
+msgstr ""
+
+#: modules/rules/views/form.php:67 modules/rules/views/form.php:121
+#: modules/rules/views/form.php:187
+msgid "Author"
+msgstr ""
+
+#: modules/rules/views/form.php:68
+msgid "Random"
+msgstr ""
+
+#: modules/rules/views/form.php:71
+msgid "Order Posts By"
+msgstr ""
+
+#: modules/rules/views/form.php:80
+msgid "In Order "
+msgstr ""
+
+#: modules/rules/views/form.php:81
+msgid "Ascending"
+msgstr ""
+
+#: modules/rules/views/form.php:81
+msgid "Decending"
+msgstr ""
+
+#: modules/rules/views/form.php:89
+msgid "Basic Filters For Post Lising"
+msgstr ""
+
+#: modules/rules/views/form.php:95
+msgid "Posts Having Featured Image"
+msgstr ""
+
+#: modules/rules/views/form.php:99
+msgid "Display those posts which has a featured image."
+msgstr ""
+
+#: modules/rules/views/form.php:104
+msgid "Ignore Sticky Posts"
+msgstr ""
+
+#: modules/rules/views/form.php:108
+msgid "Don't display sticky posts"
+msgstr ""
+
+#: modules/rules/views/form.php:137 modules/rules/views/form.php:196
+msgid "Posts Categories"
+msgstr ""
+
+#: modules/rules/views/form.php:153
+msgid "Post Formats"
+msgstr ""
+
+#: modules/rules/views/form.php:161
+msgid "Display Posts By IDs"
+msgstr ""
+
+#: modules/rules/views/form.php:163
+msgid ""
+"Comma seperated Post Id's to display. If you provided here ids of post, most "
+"of above settings will be ignored."
+msgstr ""
+
+#: modules/rules/views/form.php:171
+msgid "Exclude Posts"
+msgstr ""
+
+#: modules/rules/views/form.php:177
+msgid "Exclude Posts By IDs"
+msgstr ""
+
+#: modules/rules/views/form.php:179
+msgid ""
+"Comma seperated Post Id's to hide. These posts will be not visible in your "
+"listing."
+msgstr ""
+
+#: modules/rules/views/form.php:190
+msgid "Posts by selected authors will be not visible in your listing."
+msgstr ""
+
+#: modules/rules/views/form.php:201
+msgid "Posts in selected categories will be not visible in your listing."
+msgstr ""
+
+#: modules/rules/views/form.php:207
+msgid "Date(s) Filter"
+msgstr ""
+
+#: modules/rules/views/form.php:213
+msgid "Apply Date(s) Filters"
+msgstr ""
+
+#: modules/rules/views/form.php:217
+msgid "Enable date(s) range filters."
+msgstr ""
+
+#: modules/rules/views/form.php:223
+msgid "This Week"
+msgstr ""
+
+#: modules/rules/views/form.php:224
+msgid "Last Week"
+msgstr ""
+
+#: modules/rules/views/form.php:225
+msgid "Today"
+msgstr ""
+
+#: modules/rules/views/form.php:226
+msgid "Yesterday"
+msgstr ""
+
+#: modules/rules/views/form.php:227
+msgid "This Month"
+msgstr ""
+
+#: modules/rules/views/form.php:228
+msgid "Last Month"
+msgstr ""
+
+#: modules/rules/views/form.php:231
+msgid "Choose Time Span To Filter"
+msgstr ""
+
+#: modules/rules/views/form.php:242
+msgid "Save Rule"
+msgstr ""
+
+#: modules/rules/views/manage.php:33
+msgid "All"
+msgstr ""
+
+#: modules/shortcode/views/pmp-posts-listing.php:20 wp-posts-master.php:92
+#: wp-posts-master.php:341
+msgid "Are you sure to delete item?"
+msgstr ""
+
+#: wp-posts-master.php:100 wp-posts-master.php:101
+msgid "WP Posts Master"
+msgstr ""
+
+#: wp-posts-master.php:187
+msgid "No taxonomies found."
+msgstr ""
+
+#: wp-posts-master.php:229 wp-posts-master.php:232
+msgid "No terms found."
+msgstr ""
